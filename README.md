@@ -3,7 +3,7 @@
 
 # Eduardo Lemus
 
-👋 Hi! I'm Eduardo Lemus, a junior at the University of North Carolina at Charlotte, majoring in Mathematics with a minor in Software Systems. I'm passionate about exploring data-driven solutions and currently advancing my skills in both software development and data science.
+👋 Hi! I'm Eduardo Lemus, a junior at the University of North Carolina at Charlotte, majoring in Mathematics and in Software Systems. I'm passionate about exploring data-driven solutions and currently advancing my skills in both software development and data science.
 
 ### About Me
 
