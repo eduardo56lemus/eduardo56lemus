@@ -17,7 +17,7 @@
 
 ### Skills
 
-- **Languages**: Java, Python, SQL, R
+- **Languages**: Java, Python
 - **Tools & Technologies**: Microsoft Office, GitHub, AutoCAD (Certified), and basic experience with machine learning frameworks
 - **Languages**: Fluent in English and Spanish, intermediate in Portuguese
 
