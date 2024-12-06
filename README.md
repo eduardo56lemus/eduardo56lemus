@@ -14,6 +14,7 @@
 ### Current Project
 
 - 🔍 **Predicting Auto Claim Severity with Allstate**: I am working with Allstate as part of a collaborative team project to build a machine learning model aimed at predicting auto claim severity. This project involves extensive data exploration, feature engineering, and model optimization. Our goal is to help Allstate better understand the factors driving claim costs, enhancing their ability to manage risks and make data-informed decisions.
+- https://github.com/Allstate1A-BTT/Allstate1A-Studio-Project.git
 
 ### Skills
 
