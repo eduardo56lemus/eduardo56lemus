@@ -18,7 +18,7 @@
 
 ### Skills
 
-- **Languages**: Java, Python
+- **Languages**: Java, Python, R 
 - **Tools & Technologies**: Microsoft Office, GitHub, AutoCAD (Certified), and basic experience with machine learning frameworks
 - **Languages**: Fluent in English and Spanish, intermediate in Portuguese
 
@@ -26,6 +26,7 @@
 
 - 🔢 **Data Science & Machine Learning**: I am passionate about applying mathematical and coding skills to uncover insights and create predictive models.
 - 💼 **Tech for Social Good**: Through programs like Break Through Tech, I have been able to work alongside companies committed to diversifying the tech space.
+- 💼 **Fun**: I also enjoy writing poetry, water color painting, and garageband. 
 
 ### How to Reach Me
 
