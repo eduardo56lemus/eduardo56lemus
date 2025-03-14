@@ -11,7 +11,7 @@
 - 📊 I'm particularly interested in machine learning and its applications in the real world, especially in data analysis, finance, and predictive modeling.
 - 🌱 I am always looking to grow, taking on new projects that challenge me to learn and apply innovative techniques in tech.
 
-### Current Project
+### Projects
 
 - 🔍 **Predicting Auto Claim Severity with Allstate**: I am working with Allstate as part of a collaborative team project to build a machine learning model aimed at predicting auto claim severity. This project involves extensive data exploration, feature engineering, and model optimization. Our goal is to help Allstate better understand the factors driving claim costs, enhancing their ability to manage risks and make data-informed decisions.
 - 💻 https://github.com/Allstate1A-BTT/Allstate1A-Studio-Project.git
