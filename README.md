@@ -1,38 +1,48 @@
-## Hi there 👋
+# 👋 **Hi, I'm Eduardo Lemus**  
 
+## 🌟 **About Me**  
+I'm a student at the **University of North Carolina at Charlotte**, studying **Mathematics** with a minor in **Software Systems** and an undergraduate certificate in **Actuarial Science**. I have a strong interest in **data science**, **machine learning**, and how technology can solve real-world problems.
 
-# Eduardo Lemus
+I’ve worked on various projects that allow me to combine my love for math with coding, and I’m always looking for ways to expand my skills, especially in **software development** and **data analysis**.
 
-👋 Hi! I'm Eduardo Lemus, a student at the University of North Carolina at Charlotte, majoring in Mathematics, with a minor in Software Systems, and a undergraduate certificate in Acturial Science. I'm passionate about exploring data-driven solutions and currently advancing my skills in both software development, machine learning, and data science.
+- 💻 **Languages**: I work with **Java**, **Python**, and **SQL**, and I'm currently learning **R**.
+- 🌱 **Always Learning**: I’m always picking up new tools and techniques to keep growing.
+- 🌍 **Languages**: I speak **English** and **Spanish**, and I know a bit of **Portuguese**.
 
-### About Me
+---
 
-- 💻 I have experience with **Java** and **Python**, and I'm currently expanding my skills in **R** and **SQL**.
-- 📊 I'm particularly interested in machine learning and its applications in the real world, especially in data analysis, finance, and predictive modeling.
-- 🌱 I am always looking to grow, taking on new projects that challenge me to learn and apply innovative techniques in tech.
+## 🔥 **Current Projects**
 
-### Projects
+### 📱 **[StudyTracker](https://github.com/eduardo56lemus/StudyTracker)**  
+This is a personal project I built to track my study progress for my **actuarial exam**. I wanted something simple that helps me keep track of how many hours I need to study, how much I've done, and the time left before the exam. It’s helping me stay on track, and I’m planning to add features like dark mode soon!
 
-- 🔍 **Predicting Auto Claim Severity with Allstate**: I am working with Allstate as part of a collaborative team project to build a machine learning model aimed at predicting auto claim severity. This project involves extensive data exploration, feature engineering, and model optimization. Our goal is to help Allstate better understand the factors driving claim costs, enhancing their ability to manage risks and make data-informed decisions.
-- 💻 https://github.com/Allstate1A-BTT/Allstate1A-Studio-Project.git
+### 🚗 **[Auto Claim Severity Prediction with Allstate](https://github.com/Allstate1A-BTT/Allstate1A-Studio-Project)**  
+I’m working on a team project with **Allstate** to predict the severity of auto insurance claims using machine learning. We’re diving into the data to identify patterns that can help the company make better, data-informed decisions about claims. It's been a great experience to work with such a talented group.
 
-### Skills
+### 🏆 **[Spring AI Studio Kaggle Project](https://github.com/Team-Beta-Carotene/Spring-AI-Studio-Kaggle-Project)**  
+In this project, we’re competing in a Kaggle competition, where our goal is to build a predictive model based on real-world data. I’m excited to push my skills and see how we can perform.
 
-- **Languages**: Java, Python, R 
-- **Tools & Technologies**: Microsoft Office, GitHub, AutoCAD (Certified), and basic experience with machine learning frameworks
-- **Languages**: Fluent in English and Spanish, intermediate in Portuguese
+---
 
-### Interests
+## 🧠 **Skills & Tools**  
 
-- 🔢 **Data Science & Machine Learning**: I am passionate about applying mathematical and coding skills to uncover insights and create predictive models.
-- 💼 **Tech for Social Good**: Through programs like Break Through Tech, I have been able to work alongside companies committed to diversifying the tech space.
-- 💼 **Fun**: I also enjoy writing poetry, water color painting, and garageband. 
+- **Languages**: Java, Python, R, SQL
+- **Machine Learning**: Scikit-learn, TensorFlow, XGBoost
+- **Tools**: GitHub, Microsoft Office, AutoCAD (Certified), Jupyter Notebooks
+- **Data Visualization**: Matplotlib, Seaborn, Power BI
 
-### How to Reach Me
+---
+
+## 💡 **Interests**  
+- 🔢 **Data Science**: I love using math and coding to find patterns and make predictions from data.  
+- 🏢 **Tech in Business**: I’m particularly interested in how tech can help improve industries like **insurance** and **finance**.  
+- 🎨 **Creative Side**: When I’m not coding, I enjoy writing **poetry**, painting with **watercolors**, and experimenting with music on **GarageBand**.
+
+---
+
+## 🌐 **Let’s Connect**  
 
 - 📫 **Email**: [eduardo02lemus@gmail.com](mailto:eduardo02lemus@gmail.com)  
 - 💼 **LinkedIn**: [linkedin.com/in/eduardo-lemus](https://www.linkedin.com/in/eduardo-lemus-223fff/)
 
-Feel free to reach out if you’d like to collaborate, discuss math concepts, or just connect!
-
-
+I’d love to chat, whether it's about **math**, **tech**, or just to exchange ideas. Feel free to reach out if you'd like to collaborate or connect! 😊
