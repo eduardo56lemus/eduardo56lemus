@@ -1,11 +1,11 @@
 # 👋 **Hi, I'm Eduardo Lemus**  
 
 ## 🌟 **About Me**  
-I'm a student at the **University of North Carolina at Charlotte**, obtaining a degree **Mathematics** with a minor in **Software Systems** and an undergraduate certificate in **Actuarial Science**. I have a strong interest in **data science**, **machine learning**, and how technology can solve real-world problems.
+I'm a student at the **University of North Carolina at Charlotte**, obtaining a degree in **Mathematics** with a minor in **Software Systems** and an undergraduate certificate in **Actuarial Science**. I have a strong interest in **data science**, **machine learning**, and how technology can solve real-world problems.
 
 I’ve worked on various projects that allow me to combine my love for math with coding, and I’m always looking for ways to expand my skills, especially in **software development** and **data analysis**.
 
-- 💻 **Languages**: I work with **Java**, **Python**, and **SQL**, and I'm currently learning **R**.
+- 💻 **Languages**: I work with **Java**, **Python**, and **R**, and I'm currently learning **SQL**.
 - 🌱 **Always Learning**: I’m always picking up new tools and techniques to keep growing.
 - 🌍 **Languages**: I speak **English** and **Spanish**, and I know a bit of **Portuguese**.
 
@@ -31,7 +31,7 @@ This was a Kaggle competition project where we built a predictive model based on
 
 - **Languages**: Java, Python, R, SQL
 - **Machine Learning**: Scikit-learn, TensorFlow, XGBoost
-- **Tools**: GitHub, Microsoft Office, AutoCAD (Certified), Jupyter Notebooks
+- **Tools**: GitHub, Microsoft Office, AutoCAD (Certified), Jupyter Notebooks, Git, VSCode
 - **Data Visualization**: Matplotlib, Seaborn, Power BI
 
 ---
